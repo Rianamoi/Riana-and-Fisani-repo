@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * _strlen - print string length
+ * _strlen - print string length.
  * @str: string checked
  * Return: interger
  */
