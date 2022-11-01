@@ -5,3 +5,4 @@ We will:
 > Push our branch
 > Ask review
 > Merge to the master branch
+git push check 
